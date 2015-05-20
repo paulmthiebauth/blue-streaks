@@ -13,13 +13,6 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 24bb15f0eb77ee73626559b659b685f02311501c
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
